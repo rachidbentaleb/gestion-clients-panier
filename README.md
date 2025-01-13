@@ -1,4 +1,4 @@
-# Gestion Clients - Panier
+# Gestion Livres- Panier
 
 Ce projet est une application de gestion de panier d'achat en ligne pour une boutique de livres. Il permet aux utilisateurs d'ajouter des livres à leur panier, de visualiser la quantité de chaque livre choisi, de mettre à jour la quantité et de supprimer des livres du panier. Le prix total est recalculé automatiquement en fonction des quantités choisies. L'application utilise **React** pour l'interface utilisateur et **Redux** pour la gestion de l'état du panier.
 
