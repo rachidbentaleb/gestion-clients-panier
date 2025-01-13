@@ -1,0 +1,12 @@
+.navbar-nav .nav-item .nav-link {
+    font-size: 18px;
+}
+
+.navbar-nav .nav-item .nav-link .fa-shopping-cart {
+    font-size: 20px;
+}
+
+.navbar-nav .nav-item .nav-link .badge {
+    font-size: 14px;
+    padding: 0.2rem 0.6rem;
+}
